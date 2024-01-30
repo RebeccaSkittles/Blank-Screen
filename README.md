@@ -53,7 +53,7 @@ Contributions to Blank Screen are welcome. Please read the contributing guidelin
 Blank Screen is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## About XR Development
-XR Development is dedicated to creating innovative and practical software solutions. For more information, visit our [website](#) or follow us on [Twitter](#).
+XR Development is dedicated to creating innovative and practical software solutions. For more information, visit our [website](https://xrdevelopment.net) or follow us on [Twitter]([#](https://twitter.com/RebccaSkittles)).
 
 ## Acknowledgments
 - A special thanks to everyone who contributed to this project.
